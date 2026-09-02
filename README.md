@@ -27,7 +27,7 @@ Application ID:
     
     - **Backend:** Flask (chosen for its simplicity and lightweight, minimalist architecture). For the ORM, SQLAlchemy was selected as it is one of the most popular and widely-used ORMs for Python.
     
-    - **Database:** SQLite
+    - **Database:** SQLite.
      
     - **Infrastructure & DevOps:** A microservice architecture was chosen, utilizing Docker containers for isolation and orchestration. The microservice architecture enables independent parts of the program to communicate with each other via the robust communication protocol: HTTP, alongside with simplicity of project's expansion in the future.
 
