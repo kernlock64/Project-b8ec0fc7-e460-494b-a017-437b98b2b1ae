@@ -47,5 +47,5 @@ Application ID:
 
 ## 4. Summary
 
-This project has significantly enhanced my understanding of system scalability, the Internet, architectural design, and clean documentation practices, providing me with a solid foundation for building production-grade web applications in the future.
+This project has significantly enhanced my understanding of system scalability, the network programming, architectural design, and code documentation practices, providing me with a solid foundation for building production-grade web applications in the future.
 
