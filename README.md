@@ -1,6 +1,6 @@
 
 ##### **For the KAIST Admissions Committee** 2026
-Application ID:
+Verification Token: ba01b608-06bb-45c7-8d71-423318aa9c3d
 ## 1. Project Overview & Problem Statement
 
 - **Project Name:** Jolly Mart.
